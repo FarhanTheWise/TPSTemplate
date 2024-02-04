@@ -52,7 +52,7 @@ public class PlayerLocomotion : MonoBehaviour
         Application.targetFrameRate = GetTargetFrameRate();
         _animator = playerObject.GetComponent<Animator>();
         _controller = GetComponent<CharacterController>();
-        CheckCrouch();
+        //CheckCrouch();
     }
 
     private int GetTargetFrameRate()
