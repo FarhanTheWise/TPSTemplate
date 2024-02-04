@@ -1,5 +1,5 @@
 # Third Person Template
 
-=> Basic Movement
-=> animations
-=> cinemachine Camera controls
+1. Basic Movement
+2. animations
+3. cinemachine Camera controls
